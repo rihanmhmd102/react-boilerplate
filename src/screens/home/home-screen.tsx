@@ -35,7 +35,7 @@ const HomeScreen = observer(() => {
           {t('hero.example', { defaultMessage: 'Example' })}
         </Link>
         <a
-          href="./docs"
+          href="https://github.com/redstack-dev/react-boilerplate/tree/main/docs"
           className="hero-button secondary"
           target="_blank"
           rel="noopener noreferrer"
@@ -43,7 +43,7 @@ const HomeScreen = observer(() => {
           {t('hero.documentation', { defaultMessage: 'Documentation' })}
         </a>
         <a
-          href="https://github.com/intellectronica/ruler"
+          href="https://github.com/redstack-dev/react-boilerplate"
           className="hero-button secondary"
           target="_blank"
           rel="noopener noreferrer"
