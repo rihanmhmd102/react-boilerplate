@@ -1,0 +1,40 @@
+{
+  "common": {
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "noData": "No data available",
+    "switchLanguage": "Switch language"
+  },
+  "hero": {
+    "title": "Red Stack React Boilerplate",
+    "subtitle": "Enterprise-Ready Solution",
+    "description": "A production-ready React boilerplate by Red Stack, designed for building complex, scalable client applications with modern architecture patterns and comprehensive enterprise-grade features.",
+    "documentation": "Documentation",
+    "repository": "Repository",
+    "example": "Example"
+  },
+  "page404": {
+    "title": "404 - Page Not Found",
+    "description": "Sorry, the requested page does not exist or has been moved.",
+    "goHome": "Go to Home"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "defaultMessage": "An unexpected error occurred",
+    "defaultDescription": "We apologize for the inconvenience. Please try refreshing the page or contact support if the problem persists.",
+    "tryAgain": "Try Again",
+    "technicalDetails": "Technical Details"
+  },
+  "posts": {
+    "title": "Posts",
+    "subtitle": "All Posts"
+  }
+}

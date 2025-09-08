@@ -1,0 +1,36 @@
+.theme-switcher {
+  background: none;
+  border: 2px solid var(--accent-color);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: var(--accent-color);
+  position: relative;
+  overflow: hidden;
+  font-size: 20px;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.theme-switcher:hover {
+  background: var(--accent-color);
+  color: var(--bg-color);
+  transform: scale(1.1) rotate(15deg);
+  box-shadow: 0 4px 12px rgba(190, 22, 34, 0.3);
+}
+
+.theme-switcher:active {
+  transform: scale(0.95);
+}
+
+@media (max-width: 480px) {
+  .theme-switcher {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+  }
+}
