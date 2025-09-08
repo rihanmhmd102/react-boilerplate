@@ -68,7 +68,7 @@ The boilerplate does not lock you into a single UI framework, instead providing 
 - **AI-Friendly Development**
 Red Stack is designed with AI in mind:
   - **[ruler](https://github.com/intellectronica/ruler) integration** → aggregates architectural \& style instructions for LLMs
-  - **MCP ([context7](https://context7.com/)) support** → keep AI prompts clean and context-aware
+  - **MCP ([context7](https://context7.com/redstack-dev/docs)) support** → keep AI prompts clean and context-aware
 
 ## 📚 Documentation
 

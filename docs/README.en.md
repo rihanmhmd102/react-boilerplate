@@ -147,7 +147,7 @@ Instead of asking “Will AI replace programmers?”, Red Stack asks:
 **“How can we use AI effectively today to write better code?”**
 
 - **[ruler](https://github.com/intellectronica/ruler) integration** → aggregates architecture rules, style guides, and best practices into structured instructions for any LLMs
-- **MCP ([context7](https://context7.com/)) support** → allows precise work with project-specific guidelines without flooding the AI context window
+- **MCP ([context7](https://context7.com/redstack-dev/docs)) support** → allows precise work with project-specific guidelines without flooding the AI context window
 - **Standardized scaffolding** → makes AI output consistent, predictable, and reliable across the whole team
 
 Outcome → LLM agents generate higher quality, architecture-compliant code, reducing review and refactor cycles.
